@@ -55,12 +55,12 @@ I am a web developer with React, Next.js, Node.js stack. I currently hold the po
   </tr>
   <tr>
     
-      ru Russian - Native
+        ru Russian - Native
         
   </tr>
   <tr>
     
-      pl Polish - Pre-Intermediate
+        pl Polish - Pre-Intermediate
         
   </tr>
   <tr>
