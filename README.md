@@ -3,6 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web Developer (React, Next js, JavaScript, Node js)
 --------------------------------------------------------------
+<a href="https://github.com/ihumentsev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/andrii-ihumentsev-48a33497" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+
 
 I am a web developer with React, Next.js, Node.js stack. I currently hold the position of Full Stack Developer in a product company promoting its products on the Ukrainian market, where I successfully apply my knowledge! I work with the company's projects on React and Node.js. I have experience as a freelancer with successful projects on development of mobile applications and websites for small and medium-sized companies, as well as improving existing ones. I also have hands-on experience developing a mobile app on React-native. I approach every task with great responsibility! I am constantly improving my programming and coding skills and learning new trends in web development. I want to improve my skills in collaboration with experienced programmers and gain experience in progressive companies with interesting projects!
 
