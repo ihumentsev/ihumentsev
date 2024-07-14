@@ -14,7 +14,7 @@ Full Stack Web Developer (React, Next js, JavaScript, Node js)
 I am a web developer with React, Next.js, Node.js stack. I currently hold the position of Full Stack Developer in a product company promoting its products on the Ukrainian market, where I successfully apply my knowledge! I work with the company's projects on React and Node.js. I have experience as a freelancer with successful projects on development of mobile applications and websites for small and medium-sized companies, as well as improving existing ones. I also have hands-on experience developing a mobile app on React-native. I approach every task with great responsibility! I am constantly improving my programming and coding skills and learning new trends in web development. I want to improve my skills in collaboration with experienced programmers and gain experience in progressive companies with interesting projects!
 
 * ✉️  You can contact me at [a.ihumentsev@gmail.com](mailto:a.ihumentsev@gmail.com)
-* 🚀  I'm currently working on [navchora.com.ua](http://https://navchora.com.ua/)
+* 🚀  I'm currently working on [navchora.com.ua](https://navchora.com.ua/)
 * 🧠  I'm learning Phyton
 
 ## My stack and tools  
