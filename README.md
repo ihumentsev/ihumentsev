@@ -70,6 +70,4 @@ I am a web developer with React, Next.js, Node.js stack. I currently hold the po
   </tr>
 </table>
 </div>
-### Badges
 
-<a href="https://github.com/ihumentsev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihumentsev&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=ef4444&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
